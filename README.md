@@ -11,10 +11,10 @@ Tools:
 
 ---
 
-Example of a Processing Sketch developed outside the standard PDE.
+Demo example of a Processing Sketch developed outside the standard PDE.
 
 ---
 
 _Reference:_  
-_Based on the tutorial_ ["Processing in Eclipse" by Shane White](https://processing.org/tutorials/eclipse)
-
+_Based on the tutorial_ ["Processing in Eclipse" by Shane White](https://processing.org/tutorials/eclipse)    
+_application purpose is similar to_ [Shiffman/Processing-Eclipse-Example](https://github.com/shiffman/Processing-Eclipse-Example)   
